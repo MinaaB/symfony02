@@ -1,1 +1,2 @@
 ## MON PROJET SYMFONY
+## installation 
