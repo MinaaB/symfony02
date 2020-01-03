@@ -1,2 +1,6 @@
 ## MON PROJET SYMFONY
-## installation 
+## installation de  Symfony
+
+# GIT EXEMPLE
+
+AVEC LA CONSOLE
